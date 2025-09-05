@@ -1,4 +1,3 @@
-# api.py  ── 美化版：總量/人類/機器人、多時窗、平滑化、/wikis
 from flask import Flask, request, jsonify
 import psycopg2, os
 from datetime import timezone
