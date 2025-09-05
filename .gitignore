@@ -4,9 +4,9 @@ __pycache__/
 *.ipynb_checkpoints/
 .venv/
 .env
-.env.*          # 任何本機環境檔
+.env.*          
 *.log
 *.sqlite3
 *.ndjson.gz
 ingest.log
-lc.json         # 若含你的帳號/私密設定就別上傳
+lc.json        
